@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yuvarani25/Quizapp-using-useReduce-in-Reactjs.git/static/css/main.71f2bd4d.css",
+    "main.js": "/Yuvarani25/Quizapp-using-useReduce-in-Reactjs.git/static/js/main.b395c3e4.js",
+    "index.html": "/Yuvarani25/Quizapp-using-useReduce-in-Reactjs.git/index.html",
+    "main.71f2bd4d.css.map": "/Yuvarani25/Quizapp-using-useReduce-in-Reactjs.git/static/css/main.71f2bd4d.css.map",
+    "main.b395c3e4.js.map": "/Yuvarani25/Quizapp-using-useReduce-in-Reactjs.git/static/js/main.b395c3e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f2bd4d.css",
+    "static/js/main.b395c3e4.js"
+  ]
+}
